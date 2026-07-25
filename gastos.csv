@@ -1,0 +1,41 @@
+data,categoria,descricao,valor
+2026-06-01,Alimentação,Mercado do mês,312.50
+2026-06-02,Transporte,Uber para a faculdade,18.90
+2026-06-03,Lazer,Cinema com amigos,45.00
+2026-06-04,Alimentação,iFood - jantar,52.90
+2026-06-05,Moradia,Conta de luz,138.40
+2026-06-06,Transporte,Recarga do cartão de ônibus,60.00
+2026-06-07,Saúde,Farmácia,34.20
+2026-06-08,Alimentação,Padaria,15.80
+2026-06-09,Educação,Curso online (Alura),0.00
+2026-06-10,Lazer,Assinatura Spotify,21.90
+2026-06-11,Alimentação,Restaurante,68.00
+2026-06-12,Transporte,Uber,24.50
+2026-06-13,Moradia,Internet,99.90
+2026-06-14,Alimentação,Mercado - reposição,87.30
+2026-06-15,Lazer,Show de música,120.00
+2026-06-16,Saúde,Consulta médica,150.00
+2026-06-17,Transporte,Gasolina,180.00
+2026-06-18,Alimentação,iFood - almoço,38.90
+2026-06-19,Educação,Livro técnico,79.90
+2026-06-20,Alimentação,Mercado,145.60
+2026-06-21,Lazer,Streaming (Netflix),39.90
+2026-06-22,Transporte,Uber,15.30
+2026-06-23,Moradia,Condomínio,420.00
+2026-06-24,Alimentação,Padaria,12.50
+2026-06-25,Saúde,Academia (mensalidade),89.90
+2026-06-26,Lazer,Cinema,32.00
+2026-06-27,Alimentação,Restaurante,55.40
+2026-06-28,Transporte,Recarga do cartão de ônibus,60.00
+2026-06-29,Educação,Curso online (DIO),0.00
+2026-06-30,Alimentação,Mercado do mês,298.70
+2026-07-01,Moradia,Água,45.00
+2026-07-02,Alimentação,iFood - jantar,49.90
+2026-07-03,Transporte,Uber,20.00
+2026-07-04,Lazer,Assinatura Spotify,21.90
+2026-07-05,Alimentação,Mercado,110.30
+2026-07-06,Saúde,Farmácia,28.60
+2026-07-07,Transporte,Gasolina,175.00
+2026-07-08,Lazer,Jogo (Steam),59.90
+2026-07-09,Alimentação,Restaurante,72.00
+2026-07-10,Educação,Curso online (Alura),0.00
